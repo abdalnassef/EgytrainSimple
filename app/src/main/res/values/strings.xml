@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrainT-AG</string>
+    <string-array name="ArCity">
+        <item>طنطا</item>
+        <item>الاسكندرية</item>
+        <item>القاهرة</item>
+        <item>منوف</item>
+    </string-array>
+
+</resources>
